@@ -1,0 +1,20 @@
+     1	total 92$
+     2	-rw-r--r-- 1 ccadoret ccadoret   624 Feb  2 12:42 Makefile$
+     3	-rw-r--r-- 1 ccadoret ccadoret  1435 Feb 23 11:22 error_control.c$
+     4	-rw-r--r-- 1 ccadoret ccadoret  1441 Feb 23 11:22 error_control_bonus.c$
+     5	-rw-r--r-- 1 ccadoret ccadoret  2368 Feb 23 12:03 error_control_bonus.o$
+     6	-rw-r--r-- 1 ccadoret ccadoret  2299 Jan 24 00:23 ft_split.c$
+     7	-rw-r--r-- 1 ccadoret ccadoret  2376 Feb 23 12:03 ft_split.o$
+     8	-rw-r--r-- 1 ccadoret ccadoret     0 Feb 23 11:55 infile$
+     9	-rw-r--r-- 1 ccadoret ccadoret     0 Feb 23 12:05 outfile$
+    10	-rw-r--r-- 1 ccadoret ccadoret  2222 Feb 23 11:24 pipex.c$
+    11	-rw-r--r-- 1 ccadoret ccadoret  1648 Feb 23 11:24 pipex.h$
+    12	-rwxr-xr-x 1 ccadoret ccadoret 21488 Feb 23 12:04 pipex_bonus$
+    13	-rw-r--r-- 1 ccadoret ccadoret  3599 Feb 23 12:04 pipex_bonus.c$
+    14	-rw-r--r-- 1 ccadoret ccadoret  1883 Feb 23 11:58 pipex_bonus.h$
+    15	-rw-r--r-- 1 ccadoret ccadoret  5616 Feb 23 12:04 pipex_bonus.o$
+    16	-rw-r--r-- 1 ccadoret ccadoret  1806 Feb 23 11:23 pipex_utilis.c$
+    17	-rw-r--r-- 1 ccadoret ccadoret  2173 Feb 23 11:58 pipex_utilis_bonus.c$
+    18	-rw-r--r-- 1 ccadoret ccadoret  2688 Feb 23 12:04 pipex_utilis_bonus.o$
+    19	-rw-r--r-- 1 ccadoret ccadoret  1887 Feb 23 11:24 search_paths.c$
+    20	-rw-r--r-- 1 ccadoret ccadoret  2984 Feb 23 12:04 search_paths.o$
